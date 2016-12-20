@@ -1,2 +1,2 @@
 # hello-world
-ust a Tutorial
+Just a Tutorial
